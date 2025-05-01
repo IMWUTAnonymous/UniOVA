@@ -1,0 +1,882 @@
+[
+    {
+        "video_uid": "Arson024_x264.mp4",
+        "question": "Does the fire create secondary ignition points away from the initial source?",
+        "answer": "Yes, the fire creates secondary ignition points away from the initial source. The flames spread rapidly throughout the room, indicating that the fire has ignited other areas beyond the initial point of origin. This suggests that there may be flammable materials or objects in the vicinity that have caught fire due to the intense heat and flames.",
+        "interest": "fire",
+        "question_index": 0,
+        "duration": 112
+    },
+    {
+        "video_uid": "Arrest044_x264.mp4",
+        "question": "How many police officers ascend the stairs in a group of three?",
+        "answer": "In the video, a group of three police officers can be seen ascending the stairs. This detail is part of the sequence where law enforcement responds to the burglary and proceeds to confront the individuals inside the house. The officers' coordinated movement up the stairs highlights their tactical approach to securing the premises and apprehending the suspects.",
+        "interest": "police",
+        "question_index": 1,
+        "duration": 113
+    },
+    {
+        "video_uid": "Arson021_x264.mp4",
+        "question": "What direction are the flames moving when the gate is burning (e.g., upward, sideways)?",
+        "answer": "The flames from the burning gate are moving upward. This is evident as the fire consumes the structure, and the smoke and flames rise vertically into the air. The upward movement of the flames is a typical behavior for fires, especially when they are fueled by vertical structures like gates or fences.",
+        "interest": "fire",
+        "question_index": 2,
+        "duration": 48
+    },
+    {
+        "video_uid": "Arson021_x264.mp4",
+        "question": "What color are the flames when the door first catches fire?",
+        "answer": "The flames when the door first catches fire are bright orange.",
+        "interest": "fire",
+        "question_index": 3,
+        "duration": 48
+    },
+    {
+        "video_uid": "Arson039_x264.mp4",
+        "question": "What color are the flames when the fire is first ignited?",
+        "answer": "The flames are not visible in the video, as it is a black and white recording. However, based on typical fire behavior, the flames would likely appear bright orange or yellow when first ignited.",
+        "interest": "fire",
+        "question_index": 4,
+        "duration": 112
+    },
+    {
+        "video_uid": "Arson036_x264.mp4",
+        "question": "Does the fire originate at the door of the room?",
+        "answer": "No, the fire does not originate at the door of the room. The video shows a man in a white hoodie entering the bar and setting it on fire using a lighter. The fire starts from the area where the man is standing near the counter, not from the door.",
+        "interest": "fire",
+        "question_index": 5,
+        "duration": 56
+    },
+    {
+        "video_uid": "Abuse038_x264.mp4",
+        "question": "Are the puppies positioned parallel or perpendicular to the road\u2019s direction when first appearing?",
+        "answer": "The puppies are positioned parallel to the road\u2019s direction when they first appear. They are running along the side of the road, moving in the same general direction as the traffic flow.",
+        "interest": "dog",
+        "question_index": 6,
+        "duration": 29
+    },
+    {
+        "video_uid": "Arson022_x264.mp4",
+        "question": "Does the Christmas tree have visible decorations before the man interacts with it?",
+        "answer": "Yes, the Christmas tree is decorated with ornaments and lights before the man interacts with it.",
+        "interest": "christmas tree",
+        "question_index": 7,
+        "duration": 288
+    },
+    {
+        "video_uid": "Arson023_x264.mp4",
+        "question": "Are the flames primarily concentrated on the rear section of the car?",
+        "answer": "Yes, the flames are primarily concentrated on the rear section of the car. The video shows that after the man pours a liquid from the green container onto the car and ignites it, the fire starts at the rear part of the vehicle. This is evident as the flames quickly spread across the back portion of the car, engulfing it in flames. The intensity of the fire suggests that the liquid used was highly flammable, leading to a rapid and extensive blaze focused on the rear area.",
+        "interest": "fire",
+        "question_index": 8,
+        "duration": 45
+    },
+    {
+        "video_uid": "Arson023_x264.mp4",
+        "question": "Does the man throw the fire with his left or right hand?",
+        "answer": "The man throws the fire with his **right hand**.",
+        "interest": "fire",
+        "question_index": 9,
+        "duration": 45
+    },
+    {
+        "video_uid": "RoadAccidents124_x264.mp4",
+        "question": "Does the motorcycle show visible damage to its front or rear section?",
+        "answer": "Yes, the motorcycle shows visible damage to its front or rear section.",
+        "interest": "motorcycle",
+        "question_index": 10,
+        "duration": 49
+    },
+    {
+        "video_uid": "RoadAccidents124_x264.mp4",
+        "question": "What is the distance between the motorcycle and the guardrail after coming to rest?",
+        "answer": "The motorcycle comes to rest near the guardrail, but the exact distance is not specified in the description. It can be inferred that the motorcycle is close enough to the guardrail to suggest it might have been involved in a collision or impact with it. However, without precise measurements, we cannot determine the exact distance. The key point is that the motorcycle is positioned near the guardrail after the accident.",
+        "interest": "motorcycle",
+        "question_index": 11,
+        "duration": 49
+    },
+    {
+        "video_uid": "RoadAccidents126_x264.mp4",
+        "question": "Are the carriages moving in the same direction at the moment of collision?",
+        "answer": "Yes, the carriages are moving in the same direction at the moment of collision.",
+        "interest": "carriages",
+        "question_index": 12,
+        "duration": 40
+    },
+    {
+        "video_uid": "RoadAccidents127_x264.mp4",
+        "question": "Is the truck moving or stationary when hit by the train?",
+        "answer": "The truck is stationary when hit by the train.",
+        "interest": "truck",
+        "question_index": 13,
+        "duration": 86
+    },
+    {
+        "video_uid": "RoadAccidents128_x264.mp4",
+        "question": "What predominant upper body clothing color do the pedestrians display?",
+        "answer": "The pedestrians in the video predominantly display dark-colored upper body clothing. This is evident from the individual who appears to be wearing a dark jacket or similar attire as they move across the scene.",
+        "interest": "pedestrian",
+        "question_index": 14,
+        "duration": 18
+    },
+    {
+        "video_uid": "Arrest048_x264.mp4",
+        "question": "Does a female police officer participate in restraining any individuals?",
+        "answer": "Yes, a female police officer is seen participating in restraining one of the individuals. She is shown holding onto the person's arm while another officer restrains them from behind.",
+        "interest": "police",
+        "question_index": 15,
+        "duration": 135
+    },
+    {
+        "video_uid": "Arson038_x264.mp4",
+        "question": "Does the torch make direct contact with any part of the house structure (e.g., roof, window)?",
+        "answer": "The torch does not make direct contact with any part of the house structure. The person holding the torch is seen moving around the exterior of the building, but there is no indication that the torch touches the roof, windows, or any other part of the house. The focus appears to be on inspecting or searching the area rather than interacting physically with the structure.",
+        "interest": "torch",
+        "question_index": 16,
+        "duration": 24
+    },
+    {
+        "video_uid": "Arson038_x264.mp4",
+        "question": "How close is the torch to the house's entrance when it lands?",
+        "answer": "The torch lands very close to the house's entrance. It appears to be within a few feet of the doorway, as it is clearly visible in the frame and seems to be near the threshold of the building. The proximity suggests that the person who threw the torch intended for it to reach or impact the area near the entrance.",
+        "interest": "torch",
+        "question_index": 17,
+        "duration": 24
+    },
+    {
+        "video_uid": "Burglary086_x264.mp4",
+        "question": "What is the sleeve length of the man's gray shirt (short or long)?",
+        "answer": "The man's gray shirt has short sleeves.",
+        "interest": "person",
+        "question_index": 18,
+        "duration": 108
+    },
+    {
+        "video_uid": "Arson020_x264.mp4",
+        "question": "Are there visible smoke clouds emerging from the car windows?",
+        "answer": "Yes, there are visible smoke clouds emerging from the car windows.",
+        "interest": "fire",
+        "question_index": 19,
+        "duration": 80
+    },
+    {
+        "video_uid": "Arson020_x264.mp4",
+        "question": "Is molten material dripping from the burning car's interior?",
+        "answer": "No, there is no indication of molten material dripping from the burning car's interior in the video. The flames are visible on the hood and roof, but there is no evidence of dripping molten material.",
+        "interest": "fire",
+        "question_index": 20,
+        "duration": 80
+    },
+    {
+        "video_uid": "Explosion014_x264.mp4",
+        "question": "Is the police car parked parallel or perpendicular to the burning car when it stops?",
+        "answer": "The police car is parked **perpendicular** to the burning car when it stops. This positioning allows the officers to quickly assess the situation and potentially access the burning vehicle from multiple angles, which can be crucial in emergency response scenarios. The perpendicular orientation also helps in managing traffic flow and ensuring safety for both the responders and other vehicles on the road.",
+        "interest": "fire",
+        "question_index": 21,
+        "duration": 43
+    },
+    {
+        "video_uid": "Explosion012_x264.mp4",
+        "question": "What is the primary color of the explosion's initial burst (e.g., orange, black)?",
+        "answer": "The primary color of the explosion's initial burst appears to be **orange**. This is typical for explosions, as the intense heat and combustion produce a bright orange or yellow glow. The subsequent smoke and debris may obscure some details, but the initial burst clearly shows an orange hue.",
+        "interest": "explosion",
+        "question_index": 22,
+        "duration": 24
+    },
+    {
+        "video_uid": "Arson025_x264.mp4",
+        "question": "Are the firefighters wearing protective helmets while extinguishing the fire?",
+        "answer": "Yes, the firefighters are wearing protective helmets while extinguishing the fire. This is a standard safety measure for firefighters to protect their heads from potential hazards such as falling debris or other dangers that may arise during firefighting operations.",
+        "interest": "fire",
+        "question_index": 23,
+        "duration": 176
+    },
+    {
+        "video_uid": "Arson025_x264.mp4",
+        "question": "How many distinct flames are visible on the burning car during the peak of the fire?",
+        "answer": "During the peak of the fire, there are multiple distinct flames visible on the burning car. The exact number can vary depending on the intensity and spread of the fire, but it is clear that the flames are widespread across the vehicle.",
+        "interest": "fire",
+        "question_index": 24,
+        "duration": 176
+    },
+    {
+        "video_uid": "RoadAccidents131_x264.mp4",
+        "question": "Is there visible fluid leakage from either car after the collision?",
+        "answer": "No, there is no visible fluid leakage from either car after the collision. The video does not show any signs of liquid pooling or dripping from the vehicles involved in the accident.",
+        "interest": "car",
+        "question_index": 25,
+        "duration": 50
+    },
+    {
+        "video_uid": "Explosion021_x264.mp4",
+        "question": "Is the gas station's main structure intact immediately after the explosion?",
+        "answer": "No, the gas station's main structure is not intact immediately after the explosion. The video shows debris flying and smoke billowing from the site, indicating significant damage to the structure.",
+        "interest": "explosion",
+        "question_index": 26,
+        "duration": 26
+    },
+    {
+        "video_uid": "Explosion021_x264.mp4",
+        "question": "Is visible smoke present following the explosion? If so, what color is the smoke?",
+        "answer": "Yes, visible smoke is present following the explosion. The smoke appears to be white or gray in color.",
+        "interest": "explosion",
+        "question_index": 27,
+        "duration": 26
+    },
+    {
+        "video_uid": "Explosion027_x264.mp4",
+        "question": "What direction does the smoke move after the phone is thrown (e.g., upward, sideways)?",
+        "answer": "After the phone is thrown, the smoke moves **upward**. The force of the impact likely causes the phone to shatter, releasing smoke that rises due to its lighter density compared to the surrounding air. This upward movement is typical for smoke or vapor released from a broken electronic device.",
+        "interest": "fire",
+        "question_index": 28,
+        "duration": 25
+    },
+    {
+        "video_uid": "RoadAccidents118_x264.mp4",
+        "question": "What color is the clothing of the woman exiting the white car?",
+        "answer": "The woman exiting the white car is wearing purple clothing.",
+        "interest": "woman",
+        "question_index": 29,
+        "duration": 32
+    },
+    {
+        "video_uid": "Assault027_x264.mp4",
+        "question": "Is the man lying near the counter moving or motionless after being beaten?",
+        "answer": "The man lying near the counter is motionless after being beaten.",
+        "interest": "man",
+        "question_index": 30,
+        "duration": 231
+    },
+    {
+        "video_uid": "Fighting040_x264.mp4",
+        "question": "Are the motorcycles that surround the group arranged in a complete circle around the individuals?",
+        "answer": "No, the motorcycles are not arranged in a complete circle around the individuals. They are parked or positioned in various locations around the group, but they do not form a perfect circle.",
+        "interest": "motorcycles",
+        "question_index": 31,
+        "duration": 77
+    },
+    {
+        "video_uid": "Arson035_x264.mp4",
+        "question": "Are there visible gasoline containers or residue near the van after ignition?",
+        "answer": "No, there are no visible gasoline containers or residue near the van after ignition. The video only shows the van driving away from the camera and then suddenly igniting in flames.",
+        "interest": "fire",
+        "question_index": 32,
+        "duration": 47
+    },
+    {
+        "video_uid": "Assault029_x264.mp4",
+        "question": "Does the person lying on the ground show visible physical reactions (e.g., limb movement) during the kicking?",
+        "answer": "Yes, the person lying on the ground shows visible physical reactions during the kicking. Specifically, their legs move in response to the kicks being delivered by the individuals standing over them. These movements indicate that the person is reacting to the physical impact of the kicks, even though they are lying down. The visible limb movement suggests that the individual is not completely incapacitated and is responding to the pain or force applied.",
+        "interest": "person",
+        "question_index": 33,
+        "duration": 20
+    },
+    {
+        "video_uid": "Burglary078_x264.mp4",
+        "question": "Does the T-shirt have any logos or patterns?",
+        "answer": "The T-shirt in the image does not appear to have any visible logos or patterns. It looks plain, but due to the lighting and resolution of the video, it's difficult to confirm with absolute certainty.",
+        "interest": "person",
+        "question_index": 34,
+        "duration": 10
+    },
+    {
+        "video_uid": "Assault039_x264.mp4",
+        "question": "What is the approximate distance between the two men when the altercation begins?",
+        "answer": "The video shows two men in a laundromat, and the altercation begins when one man approaches the other. Based on the visual evidence:\n\n1. **Initial Positioning**: The first man is seen entering the laundromat from outside.\n2. **Approach**: He walks toward the second man, who is already inside the laundromat near some washing machines.\n3. **Distance at Start of Altercation**: When the altercation begins, the two men are approximately **a few feet apart**, likely within arm's reach.\n\nGiven the layout of the laundromat and their positions, the approximate distance between them when the altercation starts is **around 3 to 5 feet**. \n\nThus, the answer is:\n\n\\boxed{3 \\text{ to } 5 \\text{ feet}}",
+        "interest": "person",
+        "question_index": 35,
+        "duration": 9
+    },
+    {
+        "video_uid": "Explosion013_x264.mp4",
+        "question": "What is the predominant color of the flames during the tanker fire (e.g., orange, blue, yellow)?",
+        "answer": "The predominant color of the flames during the tanker fire is orange, which is typical for hydrocarbon fires like those involving fuel.",
+        "interest": "fire",
+        "question_index": 36,
+        "duration": 110
+    },
+    {
+        "video_uid": "Explosion010_x264.mp4",
+        "question": "Is the base of the fire obscured by smoke at any point?",
+        "answer": "Yes, the base of the fire is obscured by smoke at some points in the video.",
+        "interest": "fire",
+        "question_index": 37,
+        "duration": 83
+    },
+    {
+        "video_uid": "Arrest043_x264.mp4",
+        "question": "What is the distance between the police officer in the yellow hat and the red car when he begins beating the individual?",
+        "answer": "The police officer in the yellow hat is standing close to the individual who is lying on the ground, and he begins beating him. The red car is parked nearby, but the exact distance between the officer and the car is not specified in the description. However, it can be inferred that the officer is within a short distance from the car since he is actively engaged in the altercation near the vehicle.",
+        "interest": "police",
+        "question_index": 38,
+        "duration": 359
+    },
+    {
+        "video_uid": "Arrest043_x264.mp4",
+        "question": "How many police officers surround the individual when he is taken away?",
+        "answer": "The video does not provide a specific number of police officers surrounding the individual when he is taken away. However, it can be inferred that there are multiple officers involved in the process based on the description provided.",
+        "interest": "police",
+        "question_index": 39,
+        "duration": 359
+    },
+    {
+        "video_uid": "Explosion023_x264.mp4",
+        "question": "Does the intensity of the white light increase as the machine expands?",
+        "answer": "Yes, the intensity of the white light increases as the machine expands. The video shows that the machine starts to expand and emit a bright white light, which becomes more intense as the machine continues to grow in size. This suggests that the expansion of the machine is accompanied by an increase in energy or power output, which is visually represented by the increasing brightness of the light.",
+        "interest": "machine",
+        "question_index": 40,
+        "duration": 77
+    },
+    {
+        "video_uid": "Arson037_x264.mp4",
+        "question": "Are there visible smoke plumes accompanying the fire?",
+        "answer": "Yes, there are visible smoke plumes accompanying the fire. The video shows a bright flame with thick smoke rising from it, indicating that the fire is intense and producing significant amounts of smoke.",
+        "interest": "fire",
+        "question_index": 41,
+        "duration": 26
+    },
+    {
+        "video_uid": "Arson037_x264.mp4",
+        "question": "Is the fire spreading beyond the initial explosion area?",
+        "answer": "Yes, the fire is spreading beyond the initial explosion area. The video shows flames and smoke moving through different parts of the building, indicating that the fire has spread from its origin point to other areas. This suggests that the fire is actively growing and potentially posing a significant risk to the structure and anyone inside.",
+        "interest": "fire",
+        "question_index": 42,
+        "duration": 26
+    },
+    {
+        "video_uid": "Arson031_x264.mp4",
+        "question": "What is the approximate height of the flames at the door compared to the flames on the table?",
+        "answer": "The flames at the door appear to be taller than those on the table. While it's difficult to provide an exact measurement without scale, visually, the flames at the door seem to extend higher into the frame compared to the smaller flames on the table. This suggests that the fire at the door is more intense or has spread further vertically.",
+        "interest": "fire",
+        "question_index": 43,
+        "duration": 96
+    },
+    {
+        "video_uid": "Explosion017_x264.mp4",
+        "question": "Does the motorcycle remain upright or fall over during the fire?",
+        "answer": "The motorcycle falls over during the fire.",
+        "interest": "fire",
+        "question_index": 44,
+        "duration": 54
+    },
+    {
+        "video_uid": "Arrest051_x264.mp4",
+        "question": "Does the officer in white police uniform interact directly with the man in gray before being stopped?",
+        "answer": "Yes, the officer in white police uniform interacts directly with the man in gray before being stopped. The video shows the officer approaching the man and engaging in a conversation or interaction, which is interrupted by another officer who stops the first officer from continuing. This sequence of events highlights the dynamic nature of law enforcement activities and the potential for interruptions during routine interactions.",
+        "interest": "police",
+        "question_index": 45,
+        "duration": 360
+    },
+    {
+        "video_uid": "Assault032_x264.mp4",
+        "question": "Is the gun metallic or non-metallic in appearance?",
+        "answer": "The gun appears metallic in appearance. It is being held by the person who approaches the individual standing near the trash can, and its reflective surface suggests a metallic material.",
+        "interest": "gun",
+        "question_index": 46,
+        "duration": 19
+    },
+    {
+        "video_uid": "Assault033_x264.mp4",
+        "question": "Does the girl wear a backpack when entering the elevator?",
+        "answer": "Yes, the girl is wearing a backpack when she enters the elevator.",
+        "interest": "person",
+        "question_index": 47,
+        "duration": 42
+    },
+    {
+        "video_uid": "Explosion016_x264.mp4",
+        "question": "What is the spatial relationship between the fire burst and the smoke emission point?",
+        "answer": "The fire burst and the smoke emission point are spatially related as they both occur at the same location on the building. The fire burst is likely the initial event that causes the subsequent smoke emission. The smoke rises from the same area where the fire was observed, indicating that the fire and smoke are part of the same incident. This suggests that the fire has caused damage to the building, leading to the release of smoke into the air.",
+        "interest": "explosion",
+        "question_index": 48,
+        "duration": 32
+    },
+    {
+        "video_uid": "Fighting043_x264.mp4",
+        "question": "Is the brown car stationary or moving when it is smashed by the people from the house?",
+        "answer": "The brown car is stationary when it is smashed by the people from the house.",
+        "interest": "person",
+        "question_index": 49,
+        "duration": 104
+    },
+    {
+        "video_uid": "Burglary079_x264.mp4",
+        "question": "Does the African-American man squat behind the trunk of the car?",
+        "answer": "Yes, the African-American man squats behind the trunk of the car. He is seen crouching down and hiding behind the vehicle while the other two men are standing near the door.",
+        "interest": "person",
+        "question_index": 50,
+        "duration": 495
+    },
+    {
+        "video_uid": "Burglary079_x264.mp4",
+        "question": "What color clothing is the African-American man wearing?",
+        "answer": "The African-American man is wearing a white hoodie and black pants.",
+        "interest": "person",
+        "question_index": 51,
+        "duration": 495
+    },
+    {
+        "video_uid": "RoadAccidents132_x264.mp4",
+        "question": "Are the motorcycle\u2019s headlights illuminated during the collision?",
+        "answer": "No, the motorcycle\u2019s headlights are not illuminated during the collision. The video does not provide any information about the state of the motorcycle's lights.",
+        "interest": "motorcycle",
+        "question_index": 52,
+        "duration": 62
+    },
+    {
+        "video_uid": "RoadAccidents135_x264.mp4",
+        "question": "Did the person's orientation (facing direction) change between initial impact and final resting position?",
+        "answer": "Yes, the person's orientation changed between the initial impact and their final resting position. Initially, they were facing towards the car from which they were pushed. After being pushed, they turned around and faced away from the car as they walked back to it. This change in orientation is evident from their movement and posture throughout the sequence of events.",
+        "interest": "person",
+        "question_index": 53,
+        "duration": 40
+    },
+    {
+        "video_uid": "RoadAccidents135_x264.mp4",
+        "question": "Did the person exhibit any limb movement (e.g., arm raising, leg bending) while on the ground?",
+        "answer": "Yes, the person exhibited limb movement while on the ground. Specifically, they raised their arm and bent their leg. This indicates that they were actively trying to get up or adjust their position despite being stuck in the snow.",
+        "interest": "person",
+        "question_index": 54,
+        "duration": 40
+    },
+    {
+        "video_uid": "Robbery095_x264.mp4",
+        "question": "Is the hostage being physically restrained by the captor's hands?",
+        "answer": "Yes, the hostage is being physically restrained by the captor's hands. The video shows the captor holding onto the hostage while they are walking away from the camera. This indicates that the hostage is not free to move and is under the control of the captor.",
+        "interest": "hostage",
+        "question_index": 55,
+        "duration": 42
+    },
+    {
+        "video_uid": "RoadAccidents119_x264.mp4",
+        "question": "Is there visible dust around the white car after the collision?",
+        "answer": "Yes, there is visible dust around the white car after the collision. The video shows that the impact of the collision causes dust to rise from the ground near the vehicle. This detail adds to the chaotic and intense atmosphere following the accident.",
+        "interest": "car",
+        "question_index": 56,
+        "duration": 60
+    },
+    {
+        "video_uid": "RoadAccidents119_x264.mp4",
+        "question": "Does the man close the door of the white car after looking inside?",
+        "answer": "Yes, after looking inside the white car, the man closes the door.",
+        "interest": "car",
+        "question_index": 57,
+        "duration": 60
+    },
+    {
+        "video_uid": "Burglary085_x264.mp4",
+        "question": "What color is the box carried by the person holding it in their arm?",
+        "answer": "The box carried by the person holding it in their arm is white.",
+        "interest": "person",
+        "question_index": 58,
+        "duration": 96
+    },
+    {
+        "video_uid": "Arson032_x264.mp4",
+        "question": "Are the torches still burning after being thrown away from the house?",
+        "answer": "Yes, the torches are still burning after being thrown away from the house. The video shows that the man throws the torches away and they continue to burn on the ground.",
+        "interest": "fire",
+        "question_index": 59,
+        "duration": 92
+    },
+    {
+        "video_uid": "Explosion011_x264.mp4",
+        "question": "How much of the bus's surface area is obscured by the smoke?",
+        "answer": "The smoke obscures a significant portion of the bus's surface area, particularly on its side facing the camera. While it is difficult to provide an exact percentage without precise measurements, it appears that more than half of the visible side of the bus is covered by the smoke. The front and rear sections of the bus are less affected, but the central part is heavily obscured.",
+        "interest": "smoke",
+        "question_index": 60,
+        "duration": 52
+    },
+    {
+        "video_uid": "Explosion011_x264.mp4",
+        "question": "Is the smoke thicker at its base compared to its upper edges?",
+        "answer": "Yes, the smoke in the video appears to be thicker at its base compared to its upper edges. This is a common characteristic of smoke plumes, as they tend to disperse and thin out as they rise into the atmosphere. The denser, lower portion of the smoke likely indicates where it is being emitted or where it has recently been released, while the thinner upper edges show the smoke's dispersion over time.",
+        "interest": "smoke",
+        "question_index": 61,
+        "duration": 52
+    },
+    {
+        "video_uid": "Robbery102_x264.mp4",
+        "question": "Is the bag moving toward the motorcycle or the grass area during the fight?",
+        "answer": "The bag is moving toward the grass area during the fight.",
+        "interest": "bag",
+        "question_index": 62,
+        "duration": 60
+    },
+    {
+        "video_uid": "Robbery102_x264.mp4",
+        "question": "What material is the bag made of (e.g., leather, fabric)?",
+        "answer": "The bag is made of fabric.",
+        "interest": "bag",
+        "question_index": 63,
+        "duration": 60
+    },
+    {
+        "video_uid": "Burglary087_x264.mp4",
+        "question": "Did both men exit the room immediately after entering?",
+        "answer": "No, both men did not exit the room immediately after entering. The first man entered and then exited the room, while the second man also entered but remained in the room for a longer period before exiting.",
+        "interest": "person",
+        "question_index": 64,
+        "duration": 73
+    },
+    {
+        "video_uid": "Abuse040_x264.mp4",
+        "question": "What clothing item (e.g., shoes, pants) is visibly worn by the white-haired woman?",
+        "answer": "The white-haired woman is wearing pink pants.",
+        "interest": "person",
+        "question_index": 65,
+        "duration": 113
+    },
+    {
+        "video_uid": "Assault036_x264.mp4",
+        "question": "Does the attacker use his left or right hand to deliver the first punch?",
+        "answer": "The attacker uses his right hand to deliver the first punch.",
+        "interest": "person",
+        "question_index": 66,
+        "duration": 30
+    },
+    {
+        "video_uid": "Explosion025_x264.mp4",
+        "question": "Does the thick smoke appear darker at the base than at the top?",
+        "answer": "Yes, the thick smoke in the video appears darker at the base than at the top. This is a common visual effect where smoke near the source or ground level tends to be denser and darker due to the concentration of particles, while it becomes lighter as it rises and disperses into the air. The contrast between the dark base and the lighter top of the smoke plume is evident in the footage.",
+        "interest": "explosion",
+        "question_index": 67,
+        "duration": 16
+    },
+    {
+        "video_uid": "RoadAccidents129_x264.mp4",
+        "question": "Are the parked cars aligned in a straight line parallel to the roadside?",
+        "answer": "No, the parked cars are not aligned in a straight line parallel to the roadside. The vehicles appear to be parked at an angle or in a staggered arrangement relative to the curb. This is evident from the positioning of the cars and their orientation in relation to the road.",
+        "interest": "car",
+        "question_index": 68,
+        "duration": 8
+    },
+    {
+        "video_uid": "Explosion029_x264.mp4",
+        "question": "Does the fire spread to any part of the car after the oil gun explodes?",
+        "answer": "Yes, after the oil gun explodes, the fire spreads to the car. The woman is seen running away from the burning car, indicating that the fire has spread to the vehicle.",
+        "interest": "fire",
+        "question_index": 69,
+        "duration": 80
+    },
+    {
+        "video_uid": "Stealing081_x264.mp4",
+        "question": "Does the first man turn around immediately after closing the gray car's door?",
+        "answer": "No, the first man does not turn around immediately after closing the gray car's door. After closing the door, he walks away from the car and then turns around to walk back towards it. This sequence is visible in the video.",
+        "interest": "car",
+        "question_index": 70,
+        "duration": 41
+    },
+    {
+        "video_uid": "Vandalism031_x264.mp4",
+        "question": "What part of the wall does the curly-haired man smash the object into (e.g., upper half, lower half)?",
+        "answer": "The curly-haired man smashes the object into the lower half of the wall.",
+        "interest": "store",
+        "question_index": 71,
+        "duration": 59
+    },
+    {
+        "video_uid": "Vandalism031_x264.mp4",
+        "question": "What is the position of the cabinet relative to the counter (e.g., left, right, behind)?",
+        "answer": "The cabinet is located behind the counter.",
+        "interest": "store",
+        "question_index": 72,
+        "duration": 59
+    },
+    {
+        "video_uid": "Burglary070_x264.mp4",
+        "question": "Are the shopping bags being carried in one hand or both hands by the individuals?",
+        "answer": "The individuals are carrying the shopping bags in both hands.",
+        "interest": "shopping bags",
+        "question_index": 73,
+        "duration": 26
+    },
+    {
+        "video_uid": "Shoplifting042_x264.mp4",
+        "question": "Does the man at the counter lean forward or backward when taking items from the glass shelf?",
+        "answer": "The man at the counter leans forward when taking items from the glass shelf.",
+        "interest": "products",
+        "question_index": 74,
+        "duration": 170
+    },
+    {
+        "video_uid": "Vandalism036_x264.mp4",
+        "question": "What body part does the shirtless man use to push the shelves?",
+        "answer": "The shirtless man uses his hands to push the shelves.",
+        "interest": "person",
+        "question_index": 75,
+        "duration": 48
+    },
+    {
+        "video_uid": "Burglary082_x264.mp4",
+        "question": "What body part (arm/head/torso) does the man in black use to first touch the car?",
+        "answer": "The man in black uses his **arm** to first touch the car. Specifically, he reaches out with his right arm to make contact with the vehicle.",
+        "interest": "person",
+        "question_index": 76,
+        "duration": 92
+    },
+    {
+        "video_uid": "Vandalism041_x264.mp4",
+        "question": "How many people walked forward side by side along the sidewalk?",
+        "answer": "In the video, a group of people walked forward side by side along the sidewalk. The exact number of people is not specified in the description, but it can be inferred that there were multiple individuals walking together. Based on typical street scenes and the context provided, it is reasonable to assume that this group consisted of at least two or more people. However, without a precise count from the video, we cannot determine an exact number. If you need a specific count, please provide additional details or clarify the scene further.",
+        "interest": "person",
+        "question_index": 77,
+        "duration": 162
+    },
+    {
+        "video_uid": "Vandalism041_x264.mp4",
+        "question": "Is the group of seven people moving slowly on the sidewalk?",
+        "answer": "Yes, the group of seven people is moving slowly on the sidewalk. They are walking in a line and appear to be engaged in conversation as they walk.",
+        "interest": "person",
+        "question_index": 78,
+        "duration": 162
+    },
+    {
+        "video_uid": "Fighting042_x264.mp4",
+        "question": "When the security guard looks outside the door, is the pistol in his dominant hand?",
+        "answer": "Yes, when the security guard looks outside the door, he is holding the pistol in his dominant hand.",
+        "interest": "gun",
+        "question_index": 79,
+        "duration": 74
+    },
+    {
+        "video_uid": "Burglary084_x264.mp4",
+        "question": "How many individuals are inside the fenced area before the escape?",
+        "answer": "Before the escape, there are two individuals inside the fenced area. One is wearing a blue shirt and white gloves, while the other is wearing a black shirt and white gloves.",
+        "interest": "fence",
+        "question_index": 80,
+        "duration": 150
+    },
+    {
+        "video_uid": "Burglary084_x264.mp4",
+        "question": "Are all individuals climbing the fence from the same side (inside/outside)?",
+        "answer": "Yes, all individuals are climbing the fence from the same side, which is the inside of the building. They are seen moving towards the outside through the fence.",
+        "interest": "fence",
+        "question_index": 81,
+        "duration": 150
+    },
+    {
+        "video_uid": "RoadAccidents115_x264.mp4",
+        "question": "What percentage of the motorcycle's frame remains structurally intact?",
+        "answer": "Based on the video, it is difficult to determine the exact percentage of the motorcycle's frame that remains structurally intact. However, given that the motorcycle is lying on its side and appears to be significantly damaged, a large portion of the frame likely has sustained damage. A rough estimate might suggest that less than 50% of the frame remains structurally intact, but this would depend on the specific details of the damage not visible in the video.",
+        "interest": "motorcycle",
+        "question_index": 82,
+        "duration": 65
+    },
+    {
+        "video_uid": "RoadAccidents115_x264.mp4",
+        "question": "Are any fluid leaks (e.g., oil, gasoline) visible beneath the motorcycle?",
+        "answer": "No, there are no visible fluid leaks beneath the motorcycle in this video. The focus is on the aftermath of the accident and the response from bystanders and emergency services.",
+        "interest": "motorcycle",
+        "question_index": 83,
+        "duration": 65
+    },
+    {
+        "video_uid": "Abuse039_x264.mp4",
+        "question": "Does the man in black stand behind the black-haired woman during the body scanning sequence?",
+        "answer": "Yes, the man in black stands behind the black-haired woman during the body scanning sequence. He appears to be observing her as she goes through the process.",
+        "interest": "person",
+        "question_index": 84,
+        "duration": 471
+    },
+    {
+        "video_uid": "RoadAccidents121_x264.mp4",
+        "question": "Is the woman's head facing towards or away from the white car during initial impact?",
+        "answer": "The woman's head is facing towards the white car during the initial impact.",
+        "interest": "woman",
+        "question_index": 85,
+        "duration": 61
+    },
+    {
+        "video_uid": "Stealing079_x264.mp4",
+        "question": "Does the motorcycle in the yard have a kickstand deployed when the man in yellow pants approaches?",
+        "answer": "Yes, the motorcycle in the yard has a kickstand deployed when the man in yellow pants approaches. This detail is visible as the motorcycle remains stationary with its kickstand supporting it while the man walks towards it.",
+        "interest": "motorcycle",
+        "question_index": 86,
+        "duration": 194
+    },
+    {
+        "video_uid": "RoadAccidents110_x264.mp4",
+        "question": "Do pedestrians closer to the collision point raise their arms in reaction?",
+        "answer": "Yes, pedestrians closer to the collision point raise their arms in reaction. This is a common response when people perceive an imminent threat or danger, such as a vehicle approaching too closely or unexpectedly. The raised arms may be an instinctive gesture to protect themselves or signal distress.",
+        "interest": "person",
+        "question_index": 87,
+        "duration": 15
+    },
+    {
+        "video_uid": "RoadAccidents110_x264.mp4",
+        "question": "What direction are pedestrians facing relative to the truck's movement before being hit?",
+        "answer": "Based on the video, the pedestrians are facing away from the truck's direction of movement before being hit. They appear to be standing or walking in a way that suggests they are not directly facing the approaching truck. Instead, they seem to be oriented towards other parts of the street or activities happening around them. This positioning makes it likely that they did not anticipate the truck's approach, contributing to the incident.",
+        "interest": "person",
+        "question_index": 88,
+        "duration": 15
+    },
+    {
+        "video_uid": "Burglary081_x264.mp4",
+        "question": "Does the man use one or both hands to grip the window frame while climbing?",
+        "answer": "The man uses both hands to grip the window frame while climbing.",
+        "interest": "person",
+        "question_index": 89,
+        "duration": 13
+    },
+    {
+        "video_uid": "Burglary081_x264.mp4",
+        "question": "Does the man's backpack remain in contact with his back throughout the climb?",
+        "answer": "Yes, the man's backpack remains in contact with his back throughout the climb. The video shows him climbing up the side of the house while carrying the backpack on his back. There is no indication that he removes or detaches the backpack during this process.",
+        "interest": "person",
+        "question_index": 90,
+        "duration": 13
+    },
+    {
+        "video_uid": "Normal_Videos_928_x264.mp4",
+        "question": "Is the vase placed on the table or held by the old man after being brought?",
+        "answer": "The vase is placed on the table after being brought by the old man.",
+        "interest": "vase",
+        "question_index": 91,
+        "duration": 30
+    },
+    {
+        "video_uid": "Burglary072_x264.mp4",
+        "question": "Do the three men exiting the room move in a straight line toward the car?",
+        "answer": "Yes, the three men exit the room and move in a straight line toward the car. They walk directly from the doorway to the vehicle without any noticeable deviation or hesitation. Their movement appears purposeful and coordinated as they head towards their destination.",
+        "interest": "person",
+        "question_index": 92,
+        "duration": 84
+    },
+    {
+        "video_uid": "Explosion018_x264.mp4",
+        "question": "Does the smoke maintain a consistent density throughout the event?",
+        "answer": "",
+        "interest": "smoke",
+        "question_index": 93,
+        "duration": 51
+    },
+    {
+        "video_uid": "Vandalism038_x264.mp4",
+        "question": "Does the wall have any visible pre-existing graffiti or markings before the man begins spray painting?",
+        "answer": "No, the wall does not have any visible pre-existing graffiti or markings before the man begins spray painting. The video shows a clean and empty parking lot with no signs of prior graffiti.",
+        "interest": "wall",
+        "question_index": 94,
+        "duration": 94
+    },
+    {
+        "video_uid": "Burglary067_x264.mp4",
+        "question": "Does the man visually inspect the shoes after picking them up?",
+        "answer": "Yes, the man visually inspects the shoes after picking them up. He takes a moment to examine them closely, likely checking for any damage or issues before deciding what to do next. This inspection is part of his process in handling the shoes he found on the ground.",
+        "interest": "shoe",
+        "question_index": 95,
+        "duration": 43
+    },
+    {
+        "video_uid": "Robbery110_x264.mp4",
+        "question": "Does the man at the counter touch any object on the counter after the masked man escapes?",
+        "answer": "Yes, after the masked man escapes, the man at the counter touches an object on the counter. Specifically, he reaches out and picks up a piece of paper or document from the counter. This action suggests that he might be reviewing or organizing something related to the transaction or incident that just occurred.",
+        "interest": "person",
+        "question_index": 96,
+        "duration": 84
+    },
+    {
+        "video_uid": "RoadAccidents113_x264.mp4",
+        "question": "Is the car that hit the isolation belt facing the same direction as the bus?",
+        "answer": "No, the car that hit the isolation belt is not facing the same direction as the bus. The car appears to be traveling in a perpendicular direction to the bus, suggesting it was crossing the intersection or moving along a different lane when it made contact with the isolation belt. The bus, on the other hand, seems to be traveling straight ahead in its own lane.",
+        "interest": "car",
+        "question_index": 97,
+        "duration": 60
+    },
+    {
+        "video_uid": "RoadAccidents136_x264.mp4",
+        "question": "Are any tree branches touching the van?",
+        "answer": "Yes, there are tree branches touching the van. The video shows that the van is parked near a tree, and some of its branches are in contact with the vehicle. This detail adds to the overall chaotic scene depicted in the video.",
+        "interest": "van",
+        "question_index": 98,
+        "duration": 96
+    },
+    {
+        "video_uid": "RoadAccidents137_x264.mp4",
+        "question": "Are any of the knocked-down people visibly lying on the ground when others begin to run?",
+        "answer": "No, in the video, there are no visible people lying on the ground when others begin to run. The scene shows a white truck and a white car parked near a residential area with greenery. There is no indication of any individuals being knocked down or lying on the ground. Instead, the focus appears to be on the vehicles and the surrounding environment. If you have additional context or details about the situation, please provide them for further clarification.",
+        "interest": "person",
+        "question_index": 99,
+        "duration": 33
+    },
+    {
+        "video_uid": "RoadAccidents137_x264.mp4",
+        "question": "How many people remain on the ground after others have started running away?",
+        "answer": "In the video, after others have started running away, **one person remains on the ground**. This individual appears to be lying or crouching near the curb, while the other individuals in the scene are moving away from the area.",
+        "interest": "person",
+        "question_index": 100,
+        "duration": 33
+    },
+    {
+        "video_uid": "RoadAccidents138_x264.mp4",
+        "question": "What is the approximate distance between the mother and the curb when she is hit?",
+        "answer": "The mother is hit very close to the curb. Based on the video, she appears to be within a few feet of the curb when she is struck by the car. The exact distance is difficult to determine precisely without more detailed measurements, but it seems to be quite near the edge of the sidewalk.",
+        "interest": "person",
+        "question_index": 101,
+        "duration": 32
+    },
+    {
+        "video_uid": "RoadAccidents141_x264.mp4",
+        "question": "Are any helpers making physical contact with the injured person (e.g., holding limbs or torso)?",
+        "answer": "Yes, several helpers are making physical contact with the injured person. They are holding the injured person's limbs and torso to provide support and stability while assisting in moving them away from the scene of the accident. This physical contact is crucial for ensuring the safety and well-being of the injured individual during the rescue operation.",
+        "interest": "person",
+        "question_index": 102,
+        "duration": 87
+    },
+    {
+        "video_uid": "Robbery087_x264.mp4",
+        "question": "Does the knife remain fully visible throughout the interaction?",
+        "answer": "Yes, the knife remains fully visible throughout the interaction. The man in the orange hoodie is holding it in his right hand and uses it to threaten the cashier while demanding money.",
+        "interest": "knife",
+        "question_index": 103,
+        "duration": 33
+    },
+    {
+        "video_uid": "Robbery090_x264.mp4",
+        "question": "Were the robbers wearing masks that cover their faces?",
+        "answer": "Yes, the robbers were wearing masks that cover their faces. The video shows two men entering the bank and approaching the counter while wearing masks. One of them is holding a gun and demanding money from the teller.",
+        "interest": "robber",
+        "question_index": 104,
+        "duration": 223
+    },
+    {
+        "video_uid": "Robbery094_x264.mp4",
+        "question": "What direction do the robbers face relative to the door when first kicked out?",
+        "answer": "When the robbers are first kicked out, they face away from the door. This indicates that they are being pushed or directed to move in a direction opposite to the entrance.",
+        "interest": "robber",
+        "question_index": 105,
+        "duration": 124
+    },
+    {
+        "video_uid": "Robbery098_x264.mp4",
+        "question": "How many individuals in the video are visibly carrying a firearm?",
+        "answer": "In the video, there is one individual who is visibly carrying a firearm. This person is seen entering the store and pointing the gun at the cashier while demanding money. The presence of the firearm is clearly visible as the individual holds it in their hand during the interaction with the cashier.",
+        "interest": "gun",
+        "question_index": 106,
+        "duration": 403
+    },
+    {
+        "video_uid": "Robbery099_x264.mp4",
+        "question": "What direction is the gun facing when the man runs forward fiercely?",
+        "answer": "The gun is facing forward when the man runs forward fiercely.",
+        "interest": "gun",
+        "question_index": 107,
+        "duration": 53
+    },
+    {
+        "video_uid": "Robbery101_x264.mp4",
+        "question": "Is the pistol's magazine visibly inserted or detached during the interaction?",
+        "answer": "The pistol's magazine is visibly detached during the interaction. The man in the blue hoodie removes the magazine from the pistol and shows it to the cashier, indicating that he is demonstrating or explaining something about the weapon. This action suggests a level of familiarity with firearms and possibly an intent to intimidate or control the situation.",
+        "interest": "pistol",
+        "question_index": 108,
+        "duration": 111
+    },
+    {
+        "video_uid": "Robbery104_x264.mp4",
+        "question": "In which direction (left/right) does the car drive away relative to the stall?",
+        "answer": "The car drives away to the **left** relative to the stall.",
+        "interest": "car",
+        "question_index": 109,
+        "duration": 58
+    }
+]
